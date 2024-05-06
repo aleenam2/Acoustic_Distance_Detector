@@ -1,0 +1,3 @@
+/Users/y.k.h./Desktop/ECE420/final2/app/.cxx/Debug/4s40643f/armeabi-v7a/CMakeFiles/echo.dir
+/Users/y.k.h./Desktop/ECE420/final2/app/.cxx/Debug/4s40643f/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/y.k.h./Desktop/ECE420/final2/app/.cxx/Debug/4s40643f/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,25 @@
+# ninja log v5
+7	4182	1714270609048257666	CMakeFiles/echo.dir/audio_recorder.cpp.o	7a9b4dfb46bdf03b
+4	4203	1714270609066170202	CMakeFiles/echo.dir/audio_main.cpp.o	16717e73ea4daa7e
+12	4134	1714270608998707284	CMakeFiles/echo.dir/ece420_lib.cpp.o	c07202f3201eec60
+5	4204	1714270609060787679	CMakeFiles/echo.dir/audio_player.cpp.o	81fc95628246a81c
+0	17	0	clean	c5ed1299f76b018
+4	4144	1714270608993908305	CMakeFiles/echo.dir/audio_common.cpp.o	a6bd3582c63bd052
+11	3561	1714270608431126236	CMakeFiles/echo.dir/kiss_fft/kiss_fft.c.o	4d90a746095b5938
+12	4492	1714270609358691972	CMakeFiles/echo.dir/ece420_main.cpp.o	153da12862ca871c
+11	4183	1714270609045988739	CMakeFiles/echo.dir/debug_utils.cpp.o	214638982871a1a6
+4493	4751	1714270609618557934	/Users/y.k.h./Desktop/ECE420/final2/app/build/intermediates/cxx/Debug/4s40643f/obj/armeabi-v7a/libecho.so	84a4ed16d519b6e2
+5	2875	1714274622387064146	CMakeFiles/echo.dir/ece420_main.cpp.o	153da12862ca871c
+2883	3089	1714274622602965895	/Users/y.k.h./Desktop/ECE420/final2/app/build/intermediates/cxx/Debug/4s40643f/obj/armeabi-v7a/libecho.so	84a4ed16d519b6e2
+2	596	1714275991163359614	CMakeFiles/echo.dir/ece420_main.cpp.o	153da12862ca871c
+601	724	1714275991296881181	/Users/y.k.h./Desktop/ECE420/final2/app/build/intermediates/cxx/Debug/4s40643f/obj/armeabi-v7a/libecho.so	84a4ed16d519b6e2
+2	1068	1714276062754875225	CMakeFiles/echo.dir/ece420_main.cpp.o	153da12862ca871c
+1068	1217	1714276062916180940	/Users/y.k.h./Desktop/ECE420/final2/app/build/intermediates/cxx/Debug/4s40643f/obj/armeabi-v7a/libecho.so	84a4ed16d519b6e2
+4	2775	1714333640242235680	CMakeFiles/echo.dir/ece420_main.cpp.o	153da12862ca871c
+2788	3030	1714333640529302545	/Users/y.k.h./Desktop/ECE420/final2/app/build/intermediates/cxx/Debug/4s40643f/obj/armeabi-v7a/libecho.so	84a4ed16d519b6e2
+4	2355	1714335650744190729	CMakeFiles/echo.dir/ece420_main.cpp.o	153da12862ca871c
+2363	2641	1714335651035592192	/Users/y.k.h./Desktop/ECE420/final2/app/build/intermediates/cxx/Debug/4s40643f/obj/armeabi-v7a/libecho.so	84a4ed16d519b6e2
+5	7196	1714731822965946591	CMakeFiles/echo.dir/ece420_main.cpp.o	153da12862ca871c
+7206	10372	1714731826143034186	/Users/y.k.h./Desktop/ECE420/final2/app/build/intermediates/cxx/Debug/4s40643f/obj/armeabi-v7a/libecho.so	84a4ed16d519b6e2
+5	2044	1714732326723193241	CMakeFiles/echo.dir/ece420_main.cpp.o	153da12862ca871c
+2054	2270	1714732326960695583	/Users/y.k.h./Desktop/ECE420/final2/app/build/intermediates/cxx/Debug/4s40643f/obj/armeabi-v7a/libecho.so	84a4ed16d519b6e2

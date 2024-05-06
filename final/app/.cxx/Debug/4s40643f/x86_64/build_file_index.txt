@@ -1,0 +1,2 @@
+/Users/y.k.h./Desktop/ECE420/final2/app/src/main/cpp/CMakeLists.txt
+/Users/y.k.h./Desktop/ECE420/final2/app/src/main/cpp/ndk-stl-config.cmake
